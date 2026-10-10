@@ -21,3 +21,26 @@ body{
     background-color: coral;
     text-decoration: underline;
 }
+.ucard{
+    border: 2px solid black;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    border-radius: 30px;
+    overflow: hidden;
+    text-align: center;
+}
+.ucard img{
+    width: 100%;
+    text-align: center;
+}
+.ucard button{
+    width: 70%;
+    padding: 8px;
+    text-align: center;
+}
+.ucard button:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
