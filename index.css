@@ -11,6 +11,7 @@ body{
     background-color: lightblue;
     padding: 15px;
     text-align: center;
+    font-family :fantasy;
 }
 .nav-bar a{
     padding: 15px;
@@ -30,6 +31,7 @@ body{
     border-radius: 30px;
     overflow: hidden;
     text-align: center;
+    font-family :fantasy
 }
 .ucard img{
     width: 100%;
